@@ -1,0 +1,2 @@
+rootProject.name='AndroidForm'
+include ':app'
